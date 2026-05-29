@@ -24,4 +24,4 @@ Core Capabilities
 
 
 TAGS
-hard-disk-sentinel, hdd-sentinel-pro, hdd-sentinel-2026, smart-monitor, drive-health, ssd-monitor, nvme-monitor, pro-software-2026, trial-software, windows-software-2026                         
+hard-disk-sentinel, hdd-sentinel-pro, hdd-sentinel-2026, smart-monitor, drive-health, ssd-monitor, nvme-monitor, pro-software-2026, trial-software, windows-software-2026                          
